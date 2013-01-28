@@ -1,0 +1,6 @@
+name: Modifyworld
+main: ru.tehkode.modifyworld.bukkit.Modifyworld
+version: 0.1
+author: [t3hk0d3, gravypod]
+website: www.palmergames.com
+description: World modification permission ruleset
